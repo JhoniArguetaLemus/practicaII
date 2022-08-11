@@ -1,0 +1,8 @@
+C:\Users\MINEDUCYT\Desktop\C#\PracticaII\PracticaII\bin\Debug\PracticaII.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\PracticaII\PracticaII\bin\Debug\PracticaII.exe
+C:\Users\MINEDUCYT\Desktop\C#\PracticaII\PracticaII\bin\Debug\PracticaII.pdb
+C:\Users\MINEDUCYT\Desktop\C#\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Desktop\C#\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\PracticaII\PracticaII\obj\Debug\PracticaII.exe
+C:\Users\MINEDUCYT\Desktop\C#\PracticaII\PracticaII\obj\Debug\PracticaII.pdb
